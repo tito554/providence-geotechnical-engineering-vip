@@ -1,0 +1,43 @@
+# Geotechnical Engineering — Providence
+
+> Geotechnical engineering services in Providence, United States.
+
+## Services
+- [Anchors](https://providence.geotechnical-engineering.vip/anchors/)
+- [Atterberg Limits](https://providence.geotechnical-engineering.vip/atterberg-limits/)
+- [Cbr Road](https://providence.geotechnical-engineering.vip/cbr-road/)
+- [Deep Excavations](https://providence.geotechnical-engineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://providence.geotechnical-engineering.vip/excavation-monitoring/)
+- [Excavations](https://providence.geotechnical-engineering.vip/excavations/)
+- [Flexible Pavement](https://providence.geotechnical-engineering.vip/flexible-pavement/)
+- [Footings](https://providence.geotechnical-engineering.vip/footings/)
+- [Foundations](https://providence.geotechnical-engineering.vip/foundations/)
+- [Geophysics](https://providence.geotechnical-engineering.vip/geophysics/)
+- [Grain Size](https://providence.geotechnical-engineering.vip/grain-size/)
+- [Ground Improvement](https://providence.geotechnical-engineering.vip/ground-improvement/)
+- [Investigation](https://providence.geotechnical-engineering.vip/investigation/)
+- [Lab In Situ](https://providence.geotechnical-engineering.vip/lab-in-situ/)
+- [Laboratory](https://providence.geotechnical-engineering.vip/laboratory/)
+- [Masw](https://providence.geotechnical-engineering.vip/masw/)
+- [Mat Foundations](https://providence.geotechnical-engineering.vip/mat-foundations/)
+- [Plate Load Test](https://providence.geotechnical-engineering.vip/plate-load-test/)
+- [Resistivity](https://providence.geotechnical-engineering.vip/resistivity/)
+- [Road Geotechnics](https://providence.geotechnical-engineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://providence.geotechnical-engineering.vip/sand-cone-density/)
+- [Seismic](https://providence.geotechnical-engineering.vip/seismic/)
+- [Seismic Isolation](https://providence.geotechnical-engineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://providence.geotechnical-engineering.vip/seismic-microzonation/)
+- [Slope Stability](https://providence.geotechnical-engineering.vip/slope-stability/)
+- [Slopes](https://providence.geotechnical-engineering.vip/slopes/)
+- [Soft Ground Tunnels](https://providence.geotechnical-engineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://providence.geotechnical-engineering.vip/spt-drilling/)
+- [Stone Columns](https://providence.geotechnical-engineering.vip/stone-columns/)
+- [Triaxial](https://providence.geotechnical-engineering.vip/triaxial/)
+- [Vibrocompaction](https://providence.geotechnical-engineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://providence.geotechnical-engineering.vip/
+
+## About
+This site provides geotechnical engineering services in Providence, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
